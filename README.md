@@ -21,3 +21,5 @@ Yazılım alanında çalışan, front-end teknolojilerine ilgi duyan ve benzer t
 <video src="https://githubusercontent.com" controls="controls" style="max-width: 100%;">
   Tarayıcınız video etiketini desteklemiyor.
 </video>
+
+
