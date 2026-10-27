@@ -18,4 +18,6 @@ Yazılım alanında çalışan, front-end teknolojilerine ilgi duyan ve benzer t
 
 ## 🎥 Proje Ekran Kaydı
 
-![Proje Videosu](https://githubusercontent.com)
+<video src="https://github.com" controls="controls" style="max-width: 100%;">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
