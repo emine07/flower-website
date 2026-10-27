@@ -15,3 +15,11 @@ GitHub: https://github.com/emine07/flower-website
 Bu projede çalışmak, öğrendiklerimi pratiğe dökmek ve ön yüz (Frontend) geliştirme becerilerimi bir adım ileriye taşımak için harika bir deneyim oldu. Öğrenmeye, tasarımı kodla buluşturmaya ve yeni projeler üretmeye heyecanla devam ediyorum.
 Yazılım alanında çalışan, front-end teknolojilerine ilgi duyan ve benzer tasarımlar üzerinde çalışan kişilerle bağlantı kurmaktan mutluluk duyarım. Proje hakkındaki görüşlerinizi, önerilerinizi veya geri bildirimlerinizi benimle paylaşabilirsiniz! 👩‍💻✨
 #Yazılım #YazılımGeliştirme #GitHub #WebDesign #Frontend #HTML #CSS #FlowerWebsite
+
+## 🎥 Proje Ekran Kaydı
+
+<video src="https://githubusercontent.com" controls="controls" style="max-width: 100%;">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
+
+
